@@ -1,0 +1,10 @@
+(module FLATCONN_2 (layer F.Cu) (tedit 4F0DA6C2)
+  (fp_text reference FLATCONN_2 (at 1.27 3.81) (layer F.SilkS)
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value VAL** (at 1.27 6.35) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (pad 1 smd rect (at 0 -1.27) (size 5.00126 0.8001) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0 0) (size 5.00126 0.8001) (layers F.Cu F.Paste F.Mask))
+)

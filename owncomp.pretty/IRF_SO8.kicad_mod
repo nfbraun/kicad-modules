@@ -1,0 +1,16 @@
+(module IRF_SO8 (layer F.Cu) (tedit 52CDE8B2)
+  (fp_text reference IRF_SO8 (at 0 -1.00076) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value VAL** (at 0 1.50114) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (pad 1 smd rect (at -1.905 2.83972) (size 0.71882 1.78054) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at -0.635 2.83972) (size 0.71882 1.78054) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 0.635 2.83972) (size 0.71882 1.78054) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 1.905 2.83972) (size 0.71882 1.78054) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 1.905 -2.83972) (size 0.71882 1.78054) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 0.635 -2.83972) (size 0.71882 1.78054) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at -0.635 -2.83972) (size 0.71882 1.78054) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at -1.905 -2.83972) (size 0.71882 1.78054) (layers F.Cu F.Paste F.Mask))
+)
