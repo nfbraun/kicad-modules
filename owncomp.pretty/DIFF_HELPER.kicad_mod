@@ -1,0 +1,10 @@
+(module DIFF_HELPER (layer F.Cu) (tedit 547CEB54)
+  (fp_text reference "" (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "" (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0.1905 0) (size 0.127 0.127) (layers F.Cu))
+  (pad 2 smd circle (at -0.1905 0) (size 0.127 0.127) (layers F.Cu))
+)
